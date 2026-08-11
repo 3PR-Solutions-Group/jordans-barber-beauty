@@ -2,16 +2,29 @@
   "permissions": {
     "allow": [
       "Bash(git:*)",
+      "Bash(node:*)",
+      "Bash(pnpm:*)",
       "Bash(npm:*)",
       "Bash(npx:*)",
-      "Bash(cat:*)",
-      "Bash(ls:*)",
-      "Bash(find:*)",
-      "Bash(grep:*)",
-      "Bash(curl:*)",
       "Bash(vercel:*)",
-      "Bash(pnpm:*)",
-      "Bash(node:*)"
+      "Bash(curl:*)",
+      "Bash(jq:*)",
+      "Bash(rg:*)",
+      "Bash(grep:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(sed:*)",
+      "Bash(awk:*)",
+      "Bash(wc:*)",
+      "Bash(sort:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(df:*)",
+      "Bash(du:*)",
+      "Bash(ln:*)"
     ]
   }
 }
