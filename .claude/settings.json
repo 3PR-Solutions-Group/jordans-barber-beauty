@@ -24,7 +24,9 @@
       "Bash(mv:*)",
       "Bash(df:*)",
       "Bash(du:*)",
-      "Bash(ln:*)"
+      "Bash(ln:*)",
+      "Bash(node scripts/db/apply-migration.mjs:*)",
+      "Bash(git merge:*)"
     ]
   }
 }
